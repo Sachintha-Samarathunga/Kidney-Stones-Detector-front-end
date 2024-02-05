@@ -1,4 +1,6 @@
-## Final year project --> Kidney-Stones-Detector-front-end
+## Final year project - Kidney-Stones-Detector front-end
+
+![05](https://github.com/Sachintha-Samarathunga/Kidney-Stones-Detector-front-end/assets/98406068/251a7a91-f8f3-4bd4-88d2-c0794e3eebe3)
 
 # Getting Started with Create React App
 
